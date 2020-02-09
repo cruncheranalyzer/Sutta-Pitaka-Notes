@@ -8,3 +8,5 @@
 - ခုဒ္ဒကနိကာယ - အရွယ်အစား သေးငယ်သော သုတ္တန်များနှင့် အဘိဓမ္မာဒေသနာအုပ်စု
 
 [Source - မြန်မာဝီကီပီးဒီးယား နိကာယ် ငါးရပ်](https://my.wikipedia.org/wiki/နိကာယ်_ငါးရပ်)
+
+- [မဇ္ဈိမနိကာယ](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/tree/master/မဇ္ဈိမနိကာယ်)
