@@ -13,14 +13,14 @@
 [Source - မြန်မာဝီကီပီးဒီးယား မဇ္ဈိမနိကာယ်](https://my.wikipedia.org/wiki/မဇ္ဈိမနိကာယ်)
 
 
-# မူလပဏ္ဏာသပါဠိတော် - Mūlapaṇṇāsa
+# မူလပဏ္ဏာသပါဠိတော် - Mūlapaṇṇāsa - MN 1-50
 
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name|စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
 | --- | --- | --- | --- | --- | --- 
 |MN 1| မူလပရိယာယသုတ် | Mulapariyaya Sutta | The Root of All Things | - | -
 |MN 2| သဗ္ဗာသဝသုတ် | Sabbāsava Sutta  | All the Defilements | - | -
 
-# မဇ္ဈိမပဏ္ဏာသပါဠိတော် - Majjhimapaṇṇāsa
+# မဇ္ဈိမပဏ္ဏာသပါဠိတော် - Majjhimapaṇṇāsa - MN 51-100
 
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name |စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
 | --- | --- | --- | --- | --- | --- 
@@ -28,7 +28,7 @@
 |MN 52| အဋ္ဌကနာဂရသုတ် | Aṭṭhakanāgara Sutta   | The Man From the City of Aṭṭhaka | - | -
 
 
-# ဥပရိပဏ္ဏာသပါဠိတော် - Uparipaṇṇāsa
+# ဥပရိပဏ္ဏာသပါဠိတော် - Uparipaṇṇāsa - MN 101-152
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name |စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
 | --- | --- | --- | --- | --- | --- 
 |MN 101|ဒေဝဒဟသုတ် |Devadaha Sutta| At Devadaha | - | -
