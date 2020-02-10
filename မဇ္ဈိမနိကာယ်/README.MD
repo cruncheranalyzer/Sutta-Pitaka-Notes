@@ -11,3 +11,26 @@
 - ဥပရိပဏ္ဏာသ (နောက်ဆုံးသုတ် ၅၂-သုတ်ပါသောကျမ်း)တို့ ဖြစ်ကြလေသည်။
 
 [Source - မြန်မာဝီကီပီးဒီးယား မဇ္ဈိမနိကာယ်](https://my.wikipedia.org/wiki/မဇ္ဈိမနိကာယ်)
+
+
+# မူလပဏ္ဏာသပါဠိတော် - Mūlapaṇṇāsa
+
+|Ref Code|သုတ္တန်အမည်|ပါဠိအမည်|English Transalation |လေ့လာသောနေ့|လေ့လာမှုအမှတ်စဉ်
+| --- | --- | --- | --- | --- | --- 
+|MN 1| မူလပရိယာယသုတ် | Mulapariyaya Sutta | The Root of All Things | - | -
+|MN 2| သဗ္ဗာသဝသုတ် | Sabbāsava Sutta  | All the Defilements | - | -
+
+# မဇ္ဈိမပဏ္ဏာသပါဠိတော် - Majjhimapaṇṇāsa
+
+|Ref Code|သုတ္တန်အမည်|ပါဠိအမည်|English Transalation |လေ့လာသောနေ့|လေ့လာမှုအမှတ်စဉ်
+| --- | --- | --- | --- | --- | --- 
+|MN 51| ကန္ဒရကသုတ် | Kandaraka Sutta | With Kandaraka | - | -
+|MN 52| အဋ္ဌကနာဂရသုတ် | Aṭṭhakanāgara Sutta   | The Man From the City of Aṭṭhaka | - | -
+
+
+# ဥပရိပဏ္ဏာသပါဠိတော် - Uparipaṇṇāsa
+|Ref Code|သုတ္တန်အမည်|ပါဠိအမည်|English Transalation |လေ့လာသောနေ့|လေ့လာမှုအမှတ်စဉ်
+| --- | --- | --- | --- | --- | --- 
+|MN 101|ဒေဝဒဟသုတ် |Devadaha Sutta| At Devadaha | - | -
+|MN 140|ဓာတုဝိဘင်္ဂသုတ် |Dhatu-vibhanga Sutta| The Analysis of the Elements | 10.Feb.2020 | 1
+
