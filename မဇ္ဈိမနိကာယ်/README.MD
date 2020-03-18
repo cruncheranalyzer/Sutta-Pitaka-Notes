@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- 
 |MN 51| ကန္ဒရကသုတ် | Kandaraka Sutta | With Kandaraka | - | -
 |MN 52| အဋ္ဌကနာဂရသုတ် | Aṭṭhakanāgara Sutta   | The Man From the City of Aṭṭhaka | - | -
-|MN 62| မဟာရာဟုလောဝါဒသုတ် |  Mahārāhulovāda Sutta   | The Longer Advice to Rāhula/The Greater Exhortation to Rahula | 18.Mar.2020 | 2
+|[MN 62](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/blob/master/မဇ္ဈိမနိကာယ်/MN-62.MD)| မဟာရာဟုလောဝါဒသုတ် |  Mahārāhulovāda Sutta   | The Longer Advice to Rāhula/The Greater Exhortation to Rahula | 18.Mar.2020 | 2
 
 # ဥပရိပဏ္ဏာသပါဠိတော် - Uparipaṇṇāsa - MN 101-152
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name |စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
