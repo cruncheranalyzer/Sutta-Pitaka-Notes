@@ -19,6 +19,7 @@
 | --- | --- | --- | --- | --- | --- 
 |MN 1| မူလပရိယာယသုတ် | Mulapariyaya Sutta | The Root of All Things | - | -
 |MN 2| သဗ္ဗာသဝသုတ် | Sabbāsava Sutta  | All the Defilements | - | -
+|MN 10|မဟာသတိပဌာနသုတ် | Satipatthana Sutta | Frames of Reference| 12.May.2020 | 3
 
 # မဇ္ဈိမပဏ္ဏာသပါဠိတော် - Majjhimapaṇṇāsa - MN 51-100
 
