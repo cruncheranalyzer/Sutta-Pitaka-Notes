@@ -34,5 +34,5 @@
 | --- | --- | --- | --- | --- | --- 
 |MN 101|ဒေဝဒဟသုတ် |Devadaha Sutta| At Devadaha | - | -
 |[MN 115](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/blob/master/မဇ္ဈိမနိကာယ်/MN-115.MD)|ဗဟုဓာတုကသုတ် |Bahudhatuka Sutta| Many Elements | 11.July.2020|4
-|[MN 140]https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/blob/master/မဇ္ဈိမနိကာယ်/MN-140.MD)|ဓာတုဝိဘင်္ဂသုတ် |Dhatu-vibhanga Sutta| The Analysis of the Elements | 10.Feb.2020 | 1
+|[MN 140](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/blob/master/မဇ္ဈိမနိကာယ်/MN-140.MD)|ဓာတုဝိဘင်္ဂသုတ် |Dhatu-vibhanga Sutta| The Analysis of the Elements | 10.Feb.2020 | 1
 
