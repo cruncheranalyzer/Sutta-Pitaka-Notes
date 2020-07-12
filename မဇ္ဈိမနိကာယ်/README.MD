@@ -33,5 +33,6 @@
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name |စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
 | --- | --- | --- | --- | --- | --- 
 |MN 101|ဒေဝဒဟသုတ် |Devadaha Sutta| At Devadaha | - | -
+|[MN 115](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/blob/master/မဇ္ဈိမနိကာယ်/MN-115.MD)|ဗဟုဓာတုကသုတ် |Bahudhatuka Sutta| Many Elements | 11.July.2020|4
 |MN 140|ဓာတုဝိဘင်္ဂသုတ် |Dhatu-vibhanga Sutta| The Analysis of the Elements | 10.Feb.2020 | 1
 
