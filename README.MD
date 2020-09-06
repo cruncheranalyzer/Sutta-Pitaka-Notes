@@ -10,6 +10,5 @@
 [Source - မြန်မာဝီကီပီးဒီးယား နိကာယ် ငါးရပ်](https://my.wikipedia.org/wiki/နိကာယ်_ငါးရပ်)
 
 - [မဇ္ဈိမနိကာယ](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/tree/master/မဇ္ဈိမနိကာယ်)
--
-[သံယုတ္တနိကာယ](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/tree/master/သံယုတ္တနိကာယ်)
+- [သံယုတ္တနိကာယ](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/tree/master/သံယုတ္တနိကာယ်)
 - [အင်္ဂုတ္တရနိကာယ](https://github.com/cruncheranalyzer/Sutta-Pitaka-Notes/tree/master/အင်္ဂုတ္တရနိကာယ်)

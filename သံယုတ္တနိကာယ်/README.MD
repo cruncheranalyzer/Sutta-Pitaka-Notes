@@ -14,7 +14,7 @@
 # သံယုတ္တနိကာယ် (မဟာဝဂ္ဂသံယုတ်ပါဠိတော်) - Samyutta nikaya- SN 56
 |Ref Code|သုတ်အမည်|ပါဠိအမည်|English Name |စာဖတ်သောနေ့|လေ့လာမှုအမှတ်စဉ်
 | --- | --- | --- | --- | --- | --- 
-|[SN 56.11]|ဓမ္မစက္ကပ္ပဝတ္တနသုတ်|Dhammacakkappavattana Sutta| Setting In Montion The Wheel of TheDhamma| 6.Sep.2020|5
+|SN 56.11|ဓမ္မစက္ကပ္ပဝတ္တနသုတ်|Dhammacakkappavattana Sutta| Setting In Montion The Wheel of TheDhamma| 6.Sep.2020|5
 
 
 
